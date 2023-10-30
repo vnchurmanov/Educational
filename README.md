@@ -1,4 +1,4 @@
-###Project Overview
+### Project Overview
 
 Well Hello to everyone!
 
@@ -14,7 +14,7 @@ Advanced | "Поколение Python": курс для продвинутых [
 Professional | "Поколение Python": курс для профессионалов [Link](https://stepik.org/course/82541/info)
 Obj_orient | "Поколение Python": ООП [Link](https://stepik.org/course/98974/info)
 
-###Features
+### Features
 
 - There are just versions of programs, written for educational purposes. You may make it better, I know it)
 
