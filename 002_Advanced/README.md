@@ -1,6 +1,6 @@
 ### Features
 
-- Level of understanding - Beginner
+- Level of understanding - Advanced
 
 #### Usage Guide
 
